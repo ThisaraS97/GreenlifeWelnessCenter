@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "chrome",
+      "request": "launch",
+      "name": "Launch FitZone Home Page",
+      "url": "http://localhost/FitZoneFitnessCenter/homepage.html",
+      "webRoot": "${workspaceFolder}"
+    }
+  ]
+}
